@@ -8,3 +8,6 @@ class Solution:
 
 
 print(Solution.isPowerOfThree(self=None, n=45))
+
+
+#function that returns true if n is a power of 6
